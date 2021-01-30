@@ -1,0 +1,6 @@
+# IntelliJ Idea
+.idea
+
+# dotnet binary and object files
+bin
+obj
