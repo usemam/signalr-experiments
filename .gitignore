@@ -1,6 +1,9 @@
 # IntelliJ Idea
 .idea
 
+# VS Code
+.vscode
+
 # dotnet binary and object files
 bin
 obj
